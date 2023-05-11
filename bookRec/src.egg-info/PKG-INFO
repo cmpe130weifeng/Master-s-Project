@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Book Recommender System
+Home-page: https://github.com/cmpe130weifeng/Master-s-Project
+Author: weifeng
+Author-email: weifeng.ma@sjsu.edu
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# book recommender system
