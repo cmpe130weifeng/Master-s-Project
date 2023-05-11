@@ -1,9 +1,5 @@
 # book recommender system
 
-# you might need to install:
-# pip3 install jinja2==3.0.1
-# pip install streamlit-authenticator==0.1.5
-
-
-# run the app using command:
-# streamlit run app.py
+you might need to install:
+1. pip3 install jinja2==3.0.1
+2. pip install streamlit-authenticator==0.1.5
