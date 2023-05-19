@@ -2,6 +2,8 @@
 streamlit
 numpy
 scikit-learn
+jinja2==3.0.1
+streamlit-authenticator==0.1.5
 
 ### local packages -
 -e .  
