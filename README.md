@@ -8,4 +8,5 @@ To run the system:
 3. pip install -r requirements.txt
 4. in terminal type: streamlit run app.py
 5. Use username and password to login:
-username: weifengma password: 123456
+username: weifengma 
+password: 123456
