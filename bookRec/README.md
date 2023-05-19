@@ -8,6 +8,7 @@ pip install streamlit-authenticator==0.1.5  </br>
 run the app using command:  </br>
 streamlit run app.py
  </br>
+ </br>
 Use username and password to login: </br>
 username: weifengma
 password: 123456
